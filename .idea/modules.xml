@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventShare.iml" filepath="$PROJECT_DIR$/EventShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventShare/EventShare-EventShare.iml" filepath="$PROJECT_DIR$/EventShare/EventShare-EventShare.iml" />
+    </modules>
+  </component>
+</project>
